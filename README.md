@@ -1,0 +1,2 @@
+# ArtiCons
+Artificial Consciousness
